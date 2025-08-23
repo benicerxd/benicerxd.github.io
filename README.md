@@ -1,5 +1,5 @@
 ---
-layout:home
+layout: home
 ---
 # benicerxd.github.io
 personal website!
