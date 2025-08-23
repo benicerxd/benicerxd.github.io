@@ -2,6 +2,8 @@
 title: apps
 feed: show
 date: 2024-01-15
+tags:
+  - "#me"
 ---
 
 - obsidian - quick capture 

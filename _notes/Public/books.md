@@ -2,6 +2,8 @@
 title: books
 feed: show
 date: 2024-01-15
+tags:
+  - me
 ---
 
 - dev - maybe for good books? 

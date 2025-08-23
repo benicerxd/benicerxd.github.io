@@ -2,8 +2,10 @@
 title: Courses in my masters degree
 feed: show
 date: 2024-01-15
+tags:
+  - me
+  - "#college"
 ---
-
 - FUNDAMENTALS OF BUS PROGGRAMMING (ISTM 601)
     - learned python 
 - BUSINESS DATABASE SYSTEM (ISTM 615)

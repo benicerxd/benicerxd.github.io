@@ -35,10 +35,10 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
-url: "https://yoursite.com"
+title: "benicerxd"
+heading: "my first website"
+description: "a place to publish my resume, notes and projects "
+url: "https://benicerxd.github.io"
 baseurl: ""
 
 # Asset Configuration
@@ -50,14 +50,16 @@ ie_css: "/assets/css/ie-target.css"
 menu:
   - title: "Notes"
     url: "/notes"
-  - title: "Blog"
-    url: "/blog"
+  # - title: "Blog"
+  #   url: "/blog"
   - title: "About"
     url: "/about"
+  - title: "Resume"
+    url: "/resume"
 
 # Footer
 footer:
-  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
+  copyright: "© 2025 benicerxd. Contents under CC-BY-NC"
   credits:
     enabled: true
     url: "/credits"

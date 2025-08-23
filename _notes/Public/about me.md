@@ -2,6 +2,8 @@
 title: about me
 feed: show
 date: 2024-01-15
+tags:
+  - me
 ---
 
 [current books](/benicerxd.github.io/books.md)
