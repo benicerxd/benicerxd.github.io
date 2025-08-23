@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "806ebd5dd721b945",
+    "type": "split",
+    "children": [
+      {
+        "id": "7324d86aaea11af0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2747ce2698500b65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6a4636bad2f8826",
+    "type": "split",
+    "children": [
+      {
+        "id": "55502f3014e37f60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a0cec3d1429426d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "869c7e707b78a5a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a2aa22f2c7fb305",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37f8df429a6ead4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7cf9e473d7ead73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45bcb65d4bd14c6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "073b26912caccb1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "01dbea825ae16390",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f102aa65f9069f62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8a0cec3d1429426d",
+  "lastOpenFiles": [
+    "jekyll-garden.github.io-main/_notes/Public/formula 1 powerbi dashboard.md",
+    "jekyll-garden.github.io-main/_notes/Public/apps.md",
+    "jekyll-garden.github.io-main/_notes/Public/books.md",
+    "jekyll-garden.github.io-main/_notes/Public/COURSES IN MY MASTERS DEGREE.md",
+    "jekyll-garden.github.io-main/_notes/Public/websites.md",
+    "jekyll-garden.github.io-main/pages/about me.md",
+    "jekyll-garden.github.io-main/pages/COURSES IN MY MASTERS DEGREE.md",
+    "jekyll-garden.github.io-main/pages/apps.md",
+    "jekyll-garden.github.io-main/pages/books.md",
+    "jekyll-garden.github.io-main/pages/resume.md",
+    "jekyll-garden.github.io-main/pages/websites.md",
+    "jekyll-garden.github.io-main/README.md",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Typewriter-Regular.woff2",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Typewriter-Regular.woff",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Typewriter-Regular.ttf",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size4-Regular.woff2",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size4-Regular.woff",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size4-Regular.ttf",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size3-Regular.woff2",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size3-Regular.woff",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size3-Regular.ttf",
+    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size2-Regular.woff2",
+    "jekyll-garden.github.io-main/_notes/Public/Wiki Links.md",
+    "jekyll-garden.github.io-main/_notes/Public/Obsidian Setup.md",
+    "jekyll-garden.github.io-main/_notes/Public/Theme Features.md",
+    "jekyll-garden.github.io-main/_notes/Public/Markdown Guide.md",
+    "jekyll-garden.github.io-main/_notes/Public/Getting Started.md",
+    "jekyll-garden.github.io-main/_notes/Public/Deployment.md",
+    "jekyll-garden.github.io-main/_notes/Public/Customization.md",
+    "jekyll-garden.github.io-main/assets/img/sun.svg",
+    "jekyll-garden.github.io-main/assets/img/OGImg.png",
+    "jekyll-garden.github.io-main/assets/img/og-image.svg",
+    "jekyll-garden.github.io-main/assets/img/moon.svg",
+    "jekyll-garden.github.io-main/assets/img/icon-512.svg",
+    "jekyll-garden.github.io-main/assets/img/icon-192.svg",
+    "jekyll-garden.github.io-main/assets/img/favicon.svg",
+    "jekyll-garden.github.io-main/assets/img/external-link.svg",
+    "jekyll-garden.github.io-main/assets/img/7-how-to.png",
+    "jekyll-garden.github.io-main/assets/img/5-how-to.png",
+    "jekyll-garden.github.io-main/_posts/2024-01-15-welcome-to-jekyll-garden.md",
+    "jekyll-garden.github.io-main/pages/notes.md",
+    "jekyll-garden.github.io-main/pages/Credits.md",
+    "jekyll-garden.github.io-main/pages/index.md",
+    "jekyll-garden.github.io-main/pages/about.md",
+    "jekyll-garden.github.io-main/pages/blog.md",
+    "jekyll-garden.github.io-main/pages/404.md"
+  ]
+}
