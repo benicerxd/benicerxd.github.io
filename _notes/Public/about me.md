@@ -1,3 +1,9 @@
+---
+title: about me
+feed: show
+date: 2024-01-15
+---
+
 [current books](/benicerxd.github.io/books.md)
 [current webisites](/benicerxd.github.io/websites.md)
 [current apps](/benicerxd.github.io/apps.md)

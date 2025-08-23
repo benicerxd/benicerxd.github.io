@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"is a simple theme ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "testy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of testy"
+              "title": "Outline"
             }
           }
         ]
@@ -164,8 +162,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "869c7e707b78a5a7",
+  "active": "8a0cec3d1429426d",
   "lastOpenFiles": [
+    "testy.md",
     "_notes/Public/testy.md",
     "_notes/Public/resume.md",
     "_notes/Public/about me.md",
@@ -179,7 +178,6 @@
     "_notes/resume.md",
     "resume.md",
     "about me.md",
-    "testy.md",
     "SearchData.json",
     "README.md",
     "LICENSE",

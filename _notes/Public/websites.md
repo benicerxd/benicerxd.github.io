@@ -1,3 +1,9 @@
+---
+title: websites
+feed: show
+date: 2024-01-15
+---
+
 # cool websites
 - [bible memorization](https://web.remem.me/) website (and app) that helps memorize verse for free 
 - [text emojis](https://emojicombos.com/) search through text emojis ◝(ᵔᗜᵔ)◜, used mainly in coding headers

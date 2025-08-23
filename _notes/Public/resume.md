@@ -1,3 +1,9 @@
+---
+title: resume
+feed: show
+date: 2024-01-15
+---
+
 # PROFESSIONAL 
 - RS AMERICAS
 
