@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"is a simple theme ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,12 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "testy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of testy"
             }
           }
         ]
@@ -162,53 +164,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a0cec3d1429426d",
+  "active": "869c7e707b78a5a7",
   "lastOpenFiles": [
-    "jekyll-garden.github.io-main/_notes/Public/formula 1 powerbi dashboard.md",
-    "jekyll-garden.github.io-main/_notes/Public/apps.md",
-    "jekyll-garden.github.io-main/_notes/Public/books.md",
-    "jekyll-garden.github.io-main/_notes/Public/COURSES IN MY MASTERS DEGREE.md",
-    "jekyll-garden.github.io-main/_notes/Public/websites.md",
-    "jekyll-garden.github.io-main/pages/about me.md",
-    "jekyll-garden.github.io-main/pages/COURSES IN MY MASTERS DEGREE.md",
-    "jekyll-garden.github.io-main/pages/apps.md",
-    "jekyll-garden.github.io-main/pages/books.md",
-    "jekyll-garden.github.io-main/pages/resume.md",
-    "jekyll-garden.github.io-main/pages/websites.md",
-    "jekyll-garden.github.io-main/README.md",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Typewriter-Regular.woff2",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Typewriter-Regular.woff",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Typewriter-Regular.ttf",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size4-Regular.woff2",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size4-Regular.woff",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size4-Regular.ttf",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size3-Regular.woff2",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size3-Regular.woff",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size3-Regular.ttf",
-    "jekyll-garden.github.io-main/assets/css/vendor/fonts/KaTeX_Size2-Regular.woff2",
-    "jekyll-garden.github.io-main/_notes/Public/Wiki Links.md",
-    "jekyll-garden.github.io-main/_notes/Public/Obsidian Setup.md",
-    "jekyll-garden.github.io-main/_notes/Public/Theme Features.md",
-    "jekyll-garden.github.io-main/_notes/Public/Markdown Guide.md",
-    "jekyll-garden.github.io-main/_notes/Public/Getting Started.md",
-    "jekyll-garden.github.io-main/_notes/Public/Deployment.md",
-    "jekyll-garden.github.io-main/_notes/Public/Customization.md",
-    "jekyll-garden.github.io-main/assets/img/sun.svg",
-    "jekyll-garden.github.io-main/assets/img/OGImg.png",
-    "jekyll-garden.github.io-main/assets/img/og-image.svg",
-    "jekyll-garden.github.io-main/assets/img/moon.svg",
-    "jekyll-garden.github.io-main/assets/img/icon-512.svg",
-    "jekyll-garden.github.io-main/assets/img/icon-192.svg",
-    "jekyll-garden.github.io-main/assets/img/favicon.svg",
-    "jekyll-garden.github.io-main/assets/img/external-link.svg",
-    "jekyll-garden.github.io-main/assets/img/7-how-to.png",
-    "jekyll-garden.github.io-main/assets/img/5-how-to.png",
-    "jekyll-garden.github.io-main/_posts/2024-01-15-welcome-to-jekyll-garden.md",
-    "jekyll-garden.github.io-main/pages/notes.md",
-    "jekyll-garden.github.io-main/pages/Credits.md",
-    "jekyll-garden.github.io-main/pages/index.md",
-    "jekyll-garden.github.io-main/pages/about.md",
-    "jekyll-garden.github.io-main/pages/blog.md",
-    "jekyll-garden.github.io-main/pages/404.md"
+    "_notes/Public/testy.md",
+    "_notes/Public/resume.md",
+    "_notes/Public/about me.md",
+    "_notes/Public/apps.md",
+    "_notes/Public/books.md",
+    "_notes/Public/COURSES IN MY MASTERS DEGREE.md",
+    "_notes/Public/formula 1 powerbi dashboard.md",
+    "_notes/Public/websites.md",
+    "_notes/about me.md",
+    "_notes/testy.md",
+    "_notes/resume.md",
+    "resume.md",
+    "about me.md",
+    "testy.md",
+    "SearchData.json",
+    "README.md",
+    "LICENSE",
+    "Gemfile.lock",
+    "Gemfile",
+    "Dockerfile",
+    "docker-compose.yml",
+    "debug.yml",
+    "blog.code-workspace",
+    "autocomplete.txt",
+    "_config.yml",
+    "pages/notes.md",
+    "pages/index.md",
+    "pages/404.md",
+    "pages/about.md",
+    "pages/blog.md",
+    "pages/Credits.md",
+    "assets/img/sun.svg",
+    "assets/img/OGImg.png",
+    "assets/img/og-image.svg",
+    "assets/img/moon.svg",
+    "assets/img/icon-512.svg",
+    "assets/img/icon-192.svg",
+    "assets/img/favicon.svg",
+    "assets/img/external-link.svg",
+    "assets/img/7-how-to.png",
+    "assets/img/6-how-to.png",
+    "_posts/2024-01-15-welcome-to-jekyll-garden.md",
+    "_notes/Public/Wiki Links.md",
+    "_notes/Public/Theme Features.md",
+    "_notes/Public/Obsidian Setup.md",
+    "_notes/Public/Markdown Guide.md"
   ]
 }
