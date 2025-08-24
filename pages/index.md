@@ -7,4 +7,4 @@ permalink: /
 title: Home Page
 ---
 
-Welcome to my website! This will be a collection of my professional learning and personal notes, along with a place to showcase my [[resume]], personal [[projects]] and interests. 
+Welcome to my website! This will be a collection of my professional learning and personal [[notes]], along with a place to showcase my [[resume]], personal [[projects]] and interests. 

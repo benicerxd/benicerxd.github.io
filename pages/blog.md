@@ -5,4 +5,5 @@ permalink: /blog
 content-type: "static"
 ---
 
-Browse all published blog posts. These are chronological, time-sensitive posts alongside the evergreen digital garden notes. prob won't touch this
+Browse all published blog posts. These are chronological, time-sensitive posts alongside the evergreen digital garden notes. 
+- maybe quarterly updates? 

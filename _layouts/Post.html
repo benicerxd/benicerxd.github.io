@@ -88,6 +88,13 @@
              <!--- Post Layout-->
              {%- if page.content-type == "post"  -%}
                  <h1>{{page.title}}</h1>
+                    {%- if page.tags -%}
+                        {% for tag in page.tags %}
+                            <a href="{{site.baseurl}}/archive.html#{{tag | slugize}}">
+                                #{{ tag }}
+                            </a>
+                        {% endfor %}
+                    {%- endif -%}
                  {%- include Content.html -%}
                  {%- if site.preferences.backlinks.enabled -%}
                  {%- include Backlinks.html -%}
