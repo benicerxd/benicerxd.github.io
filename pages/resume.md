@@ -1,9 +1,9 @@
 ---
-title: resume
-feed: show
-date: 2024-01-15
+title: "Resume"
+layout: Post
+content-type: "static"
+permalink: /resume
 ---
-
 # PROFESSIONAL 
 - RS AMERICAS
 

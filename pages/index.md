@@ -4,7 +4,7 @@
 
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: Home Page
 ---
 
-this is for posts i think if i ever do them (idk what this is for)
+Welcome to my website! This will be a collection of my professional learning and personal notes, along with a place to showcase my [[resume]], personal [[projects]] and interests. 

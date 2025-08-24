@@ -3,9 +3,20 @@ title: Courses in my masters degree
 feed: show
 date: 2024-01-15
 tags:
-  - me
   - "#college"
+  - "#personal"
+  - "#professional"
 ---
+```
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+```
 - FUNDAMENTALS OF BUS PROGGRAMMING (ISTM 601)
     - learned python 
 - BUSINESS DATABASE SYSTEM (ISTM 615)
