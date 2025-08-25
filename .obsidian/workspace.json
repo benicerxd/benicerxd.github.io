@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7324d86aaea11af0",
+        "id": "f52eee511d7700b8",
         "type": "tabs",
         "children": [
           {
-            "id": "2747ce2698500b65",
+            "id": "ad71f43e73465e5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/about me.md",
+                "file": "_projects/grade tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about me"
+              "title": "grade tracker"
             }
           }
         ]
@@ -166,26 +166,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "2747ce2698500b65",
+  "active": "ad71f43e73465e5f",
   "lastOpenFiles": [
-    "pages/404.md",
-    "pages/about.md",
-    "pages/blog.md",
-    "pages/Credits.md",
-    "pages/index.md",
+    "_projects/formula 1 powerbi dashboard.md",
+    "_projects/grade tracker.md",
+    "assets/img/Grade Tracker.png",
     "pages/notes.md",
-    "pages/resume.md",
+    "_projects",
     "pages/projects.md",
+    "pages/index.md",
+    "pages/resume.md",
+    "pages/Credits.md",
+    "pages/blog.md",
+    "pages/about.md",
+    "pages/404.md",
+    "_notes/Public/about me.md",
     "pages/resume copy.md",
     "README.md",
     "testy.md",
     "_notes/Public/testy.md",
     "_notes/Public/resume.md",
-    "_notes/Public/about me.md",
     "_notes/Public/apps.md",
     "_notes/Public/books.md",
     "_notes/Public/COURSES IN MY MASTERS DEGREE.md",
-    "_notes/Public/formula 1 powerbi dashboard.md",
     "_notes/Public/websites.md",
     "_notes/about me.md",
     "_notes/testy.md",
@@ -201,7 +204,6 @@
     "debug.yml",
     "blog.code-workspace",
     "autocomplete.txt",
-    "_config.yml",
     "assets/img/sun.svg",
     "assets/img/OGImg.png",
     "assets/img/og-image.svg",
@@ -210,9 +212,6 @@
     "assets/img/icon-192.svg",
     "assets/img/favicon.svg",
     "assets/img/external-link.svg",
-    "assets/img/7-how-to.png",
-    "assets/img/6-how-to.png",
-    "_posts/2024-01-15-welcome-to-jekyll-garden.md",
-    "_notes/Public/Wiki Links.md"
+    "assets/img/7-how-to.png"
   ]
 }
